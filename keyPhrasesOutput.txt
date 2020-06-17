@@ -1,0 +1,264 @@
+0.9939883,3,0.9997777,the item,0.7143048,bad quality,0.90140164,missing backup spring,0.99961495,a pcs,0.99963677,aluminum,0.98000836,the battery work
+0.9919199,Bulk,0.97995776,the less expensive way,0.9994717,products
+0.59099215,Duracell,0.8561566,the price
+0.9240944,name brand batteries
+0.9988041,These batteries,0.9998331,the price
+0.99895805,a lot,0.9990723,batteries,0.99677485,Christmas,0.9757802,the AmazonBasics Cell,0.99985737,a difference,0.9736594,the brand name batteries,0.9964419,the Amazon Basic brand,0.9408846,Just a lot,0.99882925,the house,0.99606305,hand
+0.9316929,ive,0.9954009,any problame,0.99792457,these batteries,0.9888009,the past
+0.99168324,cheap non-rechargeable batteries,0.77666855,quite a while
+0.9998815,the amount,0.99135804,high power juice,0.95377904,energizer or duracell,0.9443519,half the price
+0.9743884,AmazonBasics AA AAA batteries,0.994165,a good shelf life
+0.9460878,amazon basics batteries,0.96259314,name brand ones,0.9997829,The packages,0.99983233,the price
+0.99365944,the Amazon basic batteries,0.99761003,recent purchases,0.9881666,a mixed-bag,0.8436257,some lasting better,0.99729156,any tests,0.99490976,some other brands,0.999913,the price
+0.9744945,my fish tank,0.95221066,light,0.98130643,night,0.99979633,guests
+0.99657553,em,0.99019843,the job,0.98343366,good price,0.9700098,quick delivery,0.99864084,my keyboards,0.9352527,a year,0.9964935,three days
+0.9989304,many things,0.94995594,aa battery
+0.99908924,Amazon,0.9960727,a great price,0.77963006,even better shipping,0.9920206,perfect condition,0.7548248,Great purchase
+0.9210694,brand
+0.99783295,my opinion,0.9967181,Duracel,0.997512,things,0.9940829,LED candles,0.9937158,cameras,0.9910589,Cameras,0.987783,cold temps,0.998187,other batteries,0.999238,bulk,0.99723196,the north house,0.998666,Amazon Basics,0.99925154,things,0.5368703,sheets,0.7146717,beeding and towels,0.989433,my opinion,0.9789627,the battery life,0.99968016,the large package,0.92599577,aaa and aa size
+0.9847806,the brand name
+0.99624866,these batteries,0.9955801,my Christmas gifts,0.996872,the month,0.99178165,december,0.8269958,2months,0.93450165,toys,0.9950999,replacement batteries,0.99555707,my doorbell,0.9890861,replacement batteries,0.98675853,Tv Remote control,0.9960373,these batteries
+0.9874118,my second order,0.8966117,name brand,0.9996649,my door
+0.9982563,my second purchase,0.99359417,amazon batteries,0.63979846,Just as good,0.92344815,name brand batteries,0.9867495,half the price,0.995927,the only way,0.99769896,batteries
+0.9875437,Duracell batteries,0.9485845,my Xbox one controllers,0.9979773,the reviews
+0.9333097,other name brand names
+0.9829706,all very cheap batteries
+0.9988972,a battery
+0.99131763,These Amazon batteries,0.9987873,the job,0.97424436,4star,0.972255,a few,0.9281969,a hand,0.99511826,batteries,0.9994473,a box,0.99723226,48 batteries,0.985072,this priceIm
+0.8474224,a few times,0.9945952,product,0.91092664,good quality,0.9950063,price
+0.636279,HAVE NOT,0.8431857,CHANCE TO USE ALL,0.9368051,THEM BUT HOPEFULLY ALL,0.99276185,GOOD ORDER,0.98731405,A REASONABLE AMOUNT,0.82173187,TIME MEANING A FEW YEARS OUT
+0.99827003,a light,0.9992944,the light,0.89404625,nice company,0.9962246,the batteries,0.6206365,aa,0.9922042,our fault
+0.9978441,these batteries,0.9926303,my game cameras,0.9557711,last several weeks
+0.99973905,a box,0.9973865,batteries,0.9993638,a good price,0.99362093,pricing,0.9957658,stores,0.9880291,this long time
+0.99793243,batteries,0.99906456,a good price,0.95147103,a hundred,0.506277,kids,0.9955557,grand kids
+0.9998795,the price
+0.99786586,my Xbox controllers,0.95260715,Great,0.9982332,a cheap price
+0.98403907,any name brand,0.8123496,a much better
+0.8474812,Works,0.99778,every other brand,0.9970708,battery,0.9986311,a better price,0.66002244,Powers,0.7803243,my sons,0.6653271,toys,0.99922574,months,0.9992265,a time
+0.99162394,a few eeeks,0.99092954,these batteries
+0.92061776,Energizer- half the price
+0.9944512,These batteries,0.99188864,AA batteries,0.99696404,many wireless microphone,0.9865301,brand-name batteries,0.8954208,about a month,0.9964933,our usage,0.99452746,Amazon basics,0.9985284,a subscription,0.99783915,our preferred brand,0.99849814,the same usage,0.98859555,these batteries,0.8482323,about a week,0.9802517,a 1/4 capacity
+0.9202178,3rd purchase,0.9666785,these AA,0.99647,Amazon,0.9992015,expiration,0.9969585,2027,0.8409001,Long,0.98730886,name brands
+0.99973863,my purchase
+0.99490106,these batteries,0.99727374,10,0.9923854,the 12 window candles,0.9692049,my last 2 Duracell,0.991704,the other 2,0.99923587,The Amazon Batteries,0.99432033,about 10 days,0.99687386,the Duracell,0.9963582,12,0.98379904,the Duracell,0.9958241,an average,0.8815443,17
+0.8661607,First time,0.9888529,the name brands,0.78901744,Not the same,0.96159595,this time,0.88104934,almost no charge,0.96064645,4-6 hours,0.8010633,run time,0.9041737,Junk batteries
+0.99950475,a great price
+0.9972297,These batteries,0.9984413,a simple digital clock,0.97774035,2 weeks
+0.91387457,AAA and AA batteries,0.9781553,4 - 6 times,0.9953427,a year,0.994843,the switch,0.9888391,Amazon batteries,0.93556595,about 2 years,0.9777168,These batteries,0.99181926,the name brands,0.98260146,a much more reasonable cost
+0.88489234,Date,0.9807785,the back,0.9860286,1992,0.9750948,1992
+0.64604425,GOT THE 48 PACK,0.64242184,FASTER
+0.9879223,The 48 packs,0.99529755,the lowest price,0.9552224,AA battery,0.9949421,a device,0.9959935,work,0.97589195,8 new AA batteries,0.9935835,every working day,0.99868155,These batteries,0.97186774,a 12 hour day,0.9921733,the same,0.9988802,the expensive batteries,0.9980167,rechargeable batteries,0.9940475,the simplicity,0.99478424,new batteries,0.9974666,every night
+0.9316877,the price and quantity,0.9984851,My kids,0.64836496,fast,0.98871976,a while
+0.9603211,great price
+0.8369626,Batteries,0.8176474,Standard AA kind,0.887655,everyday,0.99606025,many things,0.99854755,any others
+0.7068286,Excellent performance,0.97147447,better price
+0.6893658,expected,0.9984378,Amazon batteries,0.9986583,a long life
+
+0.92553604,Great product
+0.98798966,batteries
+0.761623,LOVE THESE BATTERIES,0.7691822,DURACELL AND SAVES ME MONEY,0.94346374,A GREAT PRODUCT AMAZON
+0.90748066,name brand batteries,0.98485017,the same nice feel,0.98740685,expensive batteries,0.8522253,Perfect,0.9983962,my opinion,0.97182447,purchase
+0.9941282,These AAA,0.99968415,the brands,0.92070264,WalMart
+
+0.99980694,this order,0.9974407,no issues,0.98229647,this order,0.9982601,same seller
+0.99269694,AmazonBasics batteries,0.9995003,terms,0.99273455,capacity,0.9990111,the top spot,0.99517894,the other 6 brands,0.9986081,other brands,0.9978363,the edge,0.9906695,capacity,0.99764025,dollar,0.99780613,capacity,0.99539125,the cost,0.9985843,battery,0.98770946,the cheapest package size,0.9978504,a respectable third place,0.9995439,the advantage,0.9987102,a trusted name,0.99135774,the value leader,0.99739665,the images,0.99708104,a graph,0.965414,a table,0.9947933,my test results,0.9969015,the 7 types,0.99038994,the in-dept test review,0.999337,a bit,0.9987016,a quest,0.99142236,the top-selling aaa batteries,0.99737287,Amazon,0.96670836,a repeatable, precise way,0.9930737,the same equipment,0.9950123,same environmental conditions,0.99861515,same slots,0.99980676,the equipment,0.9917096,each test,0.99082273,each test,0.9978269,3 batteries,0.9684471,my Opus BT-C2000 battery analyzer,0.99763966,rates,0.82049006,100 ma,0.95604724,200 ma,0.96232814,400 ma,0.96372193,discharge rate,0.9957989,usable capacity,0.9964456,this exact same test,0.99078995,same equipment,0.9985368,same conditions,0.9835123,the ACDelco,0.9966345,Duracell Procell,0.9875881,Duracell Coppertop,0.9858158,Energizer MAX,0.9925485,Maxell,0.9658747,Rayovac,0.99929994,the other brands,0.9997577,the end,0.9967965,this review,0.9990316,a look,0.9990947,the other results,0.9862965,comparison purposes,0.9920913,the Amazon Basics batteries,0.9948674,the capacity,0.97244734,each discharge rate,0.89671427,Disch Rt Capacity Runtime Sample,0.7928581,case100 mA 997 mAh 10 hrs,0.83519363,Low-power LED flashlight200 mA 914 mAh 4.5 hrs,0.8177213,Electronic toy,0.73697126,medium LED flashlight,0.8082788,400 mA 623 mAh 1.5 hrs,0.7455494,Motorized toy,0.9464675,bright LED flashlightNote,0.96230567,all other Alkalines,0.87625027,somewhat higher capacity,0.94912547,1200 mAh,0.9953826,a low discharge application,0.78322893,a mouse,0.9493288,keyboard,0.981988,remote control,0.9955886,alkaline batteries,0.9994735,internal resistance,0.9962324,usable capacity,0.99714303,high discharge rates,0.9986203,The capacity,0.9987704,these batteries,0.9735093,the best,0.99655783,a look,0.993674,the attached data table,0.99895537,comparative data,0.9889269,the cost,0.9267812,0.31/ea,0.9814937,a 36 pack,0.97200423,a decent but beatable value,0.985361,the power,0.99337596,dollar,0.9400577,other currently available options,0.98316664,Comparison,0.9922762,These batteries,0.66534024,well capacity-wise,0.89469355,value-wise,0.9810218,the currently cheapest energy/dollar battery,0.9855039,the ACDelco aaa,0.9876252,Their capacity results,0.84948987,Disch Rt Capacity Runtime100 mA 1005 mAh 10 hrs,0.7537459,200 mA 864 mAh 4.3 hrs,0.7736533,400 mA 670 mAh 1.7 hrsAs,0.9991995,the Amazon batteries,0.9964922,the current time,0.99130064,the AmazonBasics batteries,0.9267571,0.31/ea,0.9635364,36 pack,0.99951094,the ACDelco batteries,0.903839,about 0.21/ea,0.95205367,48 pack,0.9988317,the ACDelco,0.4932662,mAh,0.9564678,shelf life,0.99840945,a drawer,0.7859337,both the Amazon batteries,0.9995894,the ACDelco batteries,0.99975044,contract,0.99951583,a third party,0.9410256,Amazon,0.952516,a bit,0.9909725,consistent batteries,0.9904022,ACDelco,0.99979407,any trouble,0.99670404,my ACDelco batteries,0.9995234,the Amazon batteries,0.9693374,clearly superior packaging,0.99963856,the ACDelco batteries,0.98842806,a horrible gigantic plastic blister pack,0.99873227,the Amazon batteries,0.9974679,a closable cardboard box,0.9996942,a lot,0.95324767,batteries organization,0.99029046,your battery drawer,0.98924035,the all-around winner category,0.9949808,the 50 price premium,0.99812245,another review,0.99046487,the Rayovac AA,0.99427146,some usage scenarios,0.9999549,my findings,0.9901478,the Rayovac AAA,0.87917143,garbage,0.9991275,the Amazon batteries,0.99367344,EVERY case,0.99617654,the Rayovac AA,0.9906486,the AAA,0.9998314,the version,0.99781334,the Rayovacs,0.9994991,the website,0.9988143,his results,0.9954604,the most popular Rayovac,0.99446845,Amazon,0.99974835,my batteries,0.9984616,Amazon,0.8666718,the Rayovac test,0.9995298,several times,0.97694594,some typical Rayovac results,0.85744476,Disch Rt Capacity Runtime100 mA 908 mAh 9 hrs,0.7819831,200 mA 590 mAh 2.9 hrs,0.7685,400 mA 443 mAh 1.1 hrsMy other battery tests,0.7717558,reviews,0.9719447,reviews,0.9879207,Duracell Coppertop,0.9561231,Duracell Procell,0.93918157,ACDelco aaa alkaline batteries,0.9965423,capacity data,0.91226184,the exact same method,0.94594395,equipment,0.97858286,those reviews,0.98611814,comparison purposes,0.99393314,the product pages,0.8967131,all reviews,0.9989789,my profile,0.87346464,additional aaa tests/reviews,0.99911493,the future,0.9946285,this list,0.9461848,ACDelco AAA Super Alkaline BatteriesDuracell AAA Batteries Coppertop MN2400 - 20 PackDuracell Procell AAA Batteries PC2400BKD09Energizer MAX AAA BatteriesMaxell Alkaline Battery AAA CellRayovac Alkaline AAA Batteries
+0.96343744,Battery storage life,0.99581844,8 months
+0.995451,A good bang,0.95608664,Almost everything,0.99718267,a days,0.99803334,batteries
+0.977093,a dud batch,0.9832914,all these batteries,0.9655025,less than a month,0.92437786,My kids toys,0.48226517,that super,0.98939496,remotes,0.7286384,batteries way,0.7692056,the magic touch,0.9964923,toy,0.9943785,the store batteries,0.9963079,3 years,0.9930532,some Amazon batteries,0.97769654,1 month,0.9992874,the second child,0.9877405,the first,0.9982611,the price,0.9430486,the try,0.9995029,the other brands
+
+0.874449,Great basic batteries,0.6305504,Fantastic price,0.9963584,a stockpile,0.9996853,my kids,0.99433726,toys,0.96761614,Christmas,0.9911351,Oprah,0.9916603,a battery,0.9909458,a battery
+0.95680183,Some day,0.8040103,primitive,0.9476919,' batteries,0.99904066,an integral part,0.99671465,our daily lives,0.7509618,food,0.72189236,drink,0.9471149,shelter,0.9681948,love,0.961773,BATTERIES,0.986441,the price/quality combination
+0.9994282,A battery,0.99089104,a battery,0.7892732,these work,0.9894793,the name brands
+0.99946374,a good stock,0.99910814,batteries,0.9978314,my home,0.9983823,a repeat purchaser,0.8513437,these and other sizes,0.68819964,far no performance,0.8977432,Lasts,0.99456364,Duracell,0.99901754,the graphics
+0.7482292,his battery,0.99534225,cars,0.8867589,a awesome deal
+0.99848914,batteries,0.998331,Costco,0.9987929,Kirkland brand,0.9987792,Amazon Basics,0.99969757,my experience,0.99629426,other Amazon Basics products,0.9975695,the past,0.99909174,These batteries,0.9831134,Kirkland, Energizer and Duracell,0.9995474,The cost,0.9998643,my kids,0.9959747,more time,0.99949515,toys,0.99392843,the need,0.99809116,the batteries,0.8891069,A clear thumbs
+0.7463293,my remotes,0.90225875,RC transmitters,0.9176161,even other store brand alkaline batteries
+
+
+
+0.997129,the smaller pack,0.99730355,last time,0.99956995,this amount,0.99866545,batteries
+0.8593581,these online,0.99594575,bulk,0.9975898,several times
+0.88848007,Thes batteries
+0.9905171,This large pack,0.9993206,batteries,0.998473,a cheap alternative,0.98575115,other brand names,0.99270225,gaming,0.9936974,The battery life,0.9751833,every bit,0.96960264,the brand name batteries,0.9976808,these batteries,0.99859977,frequent gaming,0.82471454,power,0.93566257,my controller and headset
+0.75497514,Good deal,0.9146804,rechargeable
+0.8465316,Good batteries
+0.9525303,some good staying power,0.99279064,most other brands,0.99988985,this box,0.9883877,quite a few months,0.9981223,the kids,0.994919,xbox controllers
+0.9989483,These batteries,0.97565943,a good value,0.99856365,the past
+0.9997747,A friend,0.9997731,my batteries,0.9900753,Amazon,0.98795867,Her family,0.9926521,a good buy,0.9965189,the money,0.99437463,batteries
+0.99746513,Batteries,0.9976116,a commodity,0.9989793,their price,0.99926674,a store,0.9983724,these batteries,0.9917409,the name brands,0.9815727,A good value
+0.9983985,These Amazon batteries,0.9995485,a good value
+0.95832956,AA batteries,0.98335725,a great price
+0.98859185,many batteries,0.74818236,so little money,0.98237354,A great deal
+0.7321476,Works,0.83695203,everyday AA battery
+0.99932384,the local store,0.9996253,a small package,0.9976121,batteries,0.9981288,the cost,0.99869776,these batteries,0.9746761,approximately the same cost,0.9961191,6 batteries,0.99857634,a pack,0.9998823,The price,0.9997272,the batteries,0.9955838,a bargain
+0.9054195,Great,0.9807197,the money,0.9763578,these batteries,0.9967542,the past,0.9968088,The best part,0.98539853,your bank account
+0.9677414,A great deal,0.99922204,the batteries,0.99899966,a good life
+0.89748144,AmazonBasics,0.99750656,batteries,0.9783724,a great price,0.8359648,the AA,0.9514745,AAA,0.9184052,9-volt,0.99899834,a cheap shopper,0.97362304,their performance and price
+0.87651867,LeapPads,0.8779496,Xbox controllers,0.89735967,remotes,0.9771383,batteries,0.994799,a lot,0.9993061,a comparable lifespan,0.9985215,other household brands
+0.9543802,all my batteries,0.86399734,Great long lasting batteries
+0.962807,those crazy cheap batteries,0.99951786,the face,0.9824474,a couple sets,0.9838639,the quality/lifespan,0.9907027,the more expensive name brands,0.968824,friends and family,0.99165386,plenty,0.984978,AA batteries,0.95942056,birthdays and holidays
+0.92134374,My PS3 remote control,0.9255701,my television remote controls,0.9925828,these AAA batteries
+0.9939883,3,0.9997777,the item,0.7143048,bad quality,0.90140164,missing backup spring,0.99961495,a pcs,0.99963677,aluminum,0.98000836,the battery work
+0.9919199,Bulk,0.97995776,the less expensive way,0.9994717,products
+0.59099215,Duracell,0.8561566,the price
+0.9240944,name brand batteries
+0.9988041,These batteries,0.9998331,the price
+0.99895805,a lot,0.9990723,batteries,0.99677485,Christmas,0.9757802,the AmazonBasics Cell,0.99985737,a difference,0.9736594,the brand name batteries,0.9964419,the Amazon Basic brand,0.9408846,Just a lot,0.99882925,the house,0.99606305,hand
+0.9316929,ive,0.9954009,any problame,0.99792457,these batteries,0.9888009,the past
+0.99168324,cheap non-rechargeable batteries,0.77666855,quite a while
+0.9998815,the amount,0.99135804,high power juice,0.95377904,energizer or duracell,0.9443519,half the price
+0.9743884,AmazonBasics AA AAA batteries,0.994165,a good shelf life
+0.9460878,amazon basics batteries,0.96259314,name brand ones,0.9997829,The packages,0.99983233,the price
+0.99365944,the Amazon basic batteries,0.99761003,recent purchases,0.9881666,a mixed-bag,0.8436257,some lasting better,0.99729156,any tests,0.99490976,some other brands,0.999913,the price
+0.9744945,my fish tank,0.95221066,light,0.98130643,night,0.99979633,guests
+0.99657553,em,0.99019843,the job,0.98343366,good price,0.9700098,quick delivery,0.99864084,my keyboards,0.9352527,a year,0.9964935,three days
+0.9989304,many things,0.94995594,aa battery
+0.99908924,Amazon,0.9960727,a great price,0.77963006,even better shipping,0.9920206,perfect condition,0.7548248,Great purchase
+0.9210694,brand
+0.99783295,my opinion,0.9967181,Duracel,0.997512,things,0.9940829,LED candles,0.9937158,cameras,0.9910589,Cameras,0.987783,cold temps,0.998187,other batteries,0.999238,bulk,0.99723196,the north house,0.998666,Amazon Basics,0.99925154,things,0.5368703,sheets,0.7146717,beeding and towels,0.989433,my opinion,0.9789627,the battery life,0.99968016,the large package,0.92599577,aaa and aa size
+0.9847806,the brand name
+0.99624866,these batteries,0.9955801,my Christmas gifts,0.996872,the month,0.99178165,december,0.8269958,2months,0.93450165,toys,0.9950999,replacement batteries,0.99555707,my doorbell,0.9890861,replacement batteries,0.98675853,Tv Remote control,0.9960373,these batteries
+0.9874118,my second order,0.8966117,name brand,0.9996649,my door
+0.9982563,my second purchase,0.99359417,amazon batteries,0.63979846,Just as good,0.92344815,name brand batteries,0.9867495,half the price,0.995927,the only way,0.99769896,batteries
+0.9875437,Duracell batteries,0.9485845,my Xbox one controllers,0.9979773,the reviews
+0.9333097,other name brand names
+0.9829706,all very cheap batteries
+0.9988972,a battery
+0.99131763,These Amazon batteries,0.9987873,the job,0.97424436,4star,0.972255,a few,0.9281969,a hand,0.99511826,batteries,0.9994473,a box,0.99723226,48 batteries,0.985072,this priceIm
+0.8474224,a few times,0.9945952,product,0.91092664,good quality,0.9950063,price
+0.636279,HAVE NOT,0.8431857,CHANCE TO USE ALL,0.9368051,THEM BUT HOPEFULLY ALL,0.99276185,GOOD ORDER,0.98731405,A REASONABLE AMOUNT,0.82173187,TIME MEANING A FEW YEARS OUT
+0.99827003,a light,0.9992944,the light,0.89404625,nice company,0.9962246,the batteries,0.6206365,aa,0.9922042,our fault
+0.9978441,these batteries,0.9926303,my game cameras,0.9557711,last several weeks
+0.99973905,a box,0.9973865,batteries,0.9993638,a good price,0.99362093,pricing,0.9957658,stores,0.9880291,this long time
+0.99793243,batteries,0.99906456,a good price,0.95147103,a hundred,0.506277,kids,0.9955557,grand kids
+0.9998795,the price
+0.99786586,my Xbox controllers,0.95260715,Great,0.9982332,a cheap price
+0.98403907,any name brand,0.8123496,a much better
+0.8474812,Works,0.99778,every other brand,0.9970708,battery,0.9986311,a better price,0.66002244,Powers,0.7803243,my sons,0.6653271,toys,0.99922574,months,0.9992265,a time
+0.99162394,a few eeeks,0.99092954,these batteries
+0.92061776,Energizer- half the price
+0.9944512,These batteries,0.99188864,AA batteries,0.99696404,many wireless microphone,0.9865301,brand-name batteries,0.8954208,about a month,0.9964933,our usage,0.99452746,Amazon basics,0.9985284,a subscription,0.99783915,our preferred brand,0.99849814,the same usage,0.98859555,these batteries,0.8482323,about a week,0.9802517,a 1/4 capacity
+0.9202178,3rd purchase,0.9666785,these AA,0.99647,Amazon,0.9992015,expiration,0.9969585,2027,0.8409001,Long,0.98730886,name brands
+0.99973863,my purchase
+0.99490106,these batteries,0.99727374,10,0.9923854,the 12 window candles,0.9692049,my last 2 Duracell,0.991704,the other 2,0.99923587,The Amazon Batteries,0.99432033,about 10 days,0.99687386,the Duracell,0.9963582,12,0.98379904,the Duracell,0.9958241,an average,0.8815443,17
+0.8661607,First time,0.9888529,the name brands,0.78901744,Not the same,0.96159595,this time,0.88104934,almost no charge,0.96064645,4-6 hours,0.8010633,run time,0.9041737,Junk batteries
+0.99950475,a great price
+0.9972297,These batteries,0.9984413,a simple digital clock,0.97774035,2 weeks
+0.91387457,AAA and AA batteries,0.9781553,4 - 6 times,0.9953427,a year,0.994843,the switch,0.9888391,Amazon batteries,0.93556595,about 2 years,0.9777168,These batteries,0.99181926,the name brands,0.98260146,a much more reasonable cost
+0.88489234,Date,0.9807785,the back,0.9860286,1992,0.9750948,1992
+0.64604425,GOT THE 48 PACK,0.64242184,FASTER
+0.9879223,The 48 packs,0.99529755,the lowest price,0.9552224,AA battery,0.9949421,a device,0.9959935,work,0.97589195,8 new AA batteries,0.9935835,every working day,0.99868155,These batteries,0.97186774,a 12 hour day,0.9921733,the same,0.9988802,the expensive batteries,0.9980167,rechargeable batteries,0.9940475,the simplicity,0.99478424,new batteries,0.9974666,every night
+0.9316877,the price and quantity,0.9984851,My kids,0.64836496,fast,0.98871976,a while
+0.9603211,great price
+0.8369626,Batteries,0.8176474,Standard AA kind,0.887655,everyday,0.99606025,many things,0.99854755,any others
+0.7068286,Excellent performance,0.97147447,better price
+0.6893658,expected,0.9984378,Amazon batteries,0.9986583,a long life
+
+0.92553604,Great product
+0.98798966,batteries
+0.761623,LOVE THESE BATTERIES,0.7691822,DURACELL AND SAVES ME MONEY,0.94346374,A GREAT PRODUCT AMAZON
+0.90748066,name brand batteries,0.98485017,the same nice feel,0.98740685,expensive batteries,0.8522253,Perfect,0.9983962,my opinion,0.97182447,purchase
+0.9941282,These AAA,0.99968415,the brands,0.92070264,WalMart
+
+0.99980694,this order,0.9974407,no issues,0.98229647,this order,0.9982601,same seller
+0.99269694,AmazonBasics batteries,0.9995003,terms,0.99273455,capacity,0.9990111,the top spot,0.99517894,the other 6 brands,0.9986081,other brands,0.9978363,the edge,0.9906695,capacity,0.99764025,dollar,0.99780613,capacity,0.99539125,the cost,0.9985843,battery,0.98770946,the cheapest package size,0.9978504,a respectable third place,0.9995439,the advantage,0.9987102,a trusted name,0.99135774,the value leader,0.99739665,the images,0.99708104,a graph,0.965414,a table,0.9947933,my test results,0.9969015,the 7 types,0.99038994,the in-dept test review,0.999337,a bit,0.9987016,a quest,0.99142236,the top-selling aaa batteries,0.99737287,Amazon,0.96670836,a repeatable, precise way,0.9930737,the same equipment,0.9950123,same environmental conditions,0.99861515,same slots,0.99980676,the equipment,0.9917096,each test,0.99082273,each test,0.9978269,3 batteries,0.9684471,my Opus BT-C2000 battery analyzer,0.99763966,rates,0.82049006,100 ma,0.95604724,200 ma,0.96232814,400 ma,0.96372193,discharge rate,0.9957989,usable capacity,0.9964456,this exact same test,0.99078995,same equipment,0.9985368,same conditions,0.9835123,the ACDelco,0.9966345,Duracell Procell,0.9875881,Duracell Coppertop,0.9858158,Energizer MAX,0.9925485,Maxell,0.9658747,Rayovac,0.99929994,the other brands,0.9997577,the end,0.9967965,this review,0.9990316,a look,0.9990947,the other results,0.9862965,comparison purposes,0.9920913,the Amazon Basics batteries,0.9948674,the capacity,0.97244734,each discharge rate,0.89671427,Disch Rt Capacity Runtime Sample,0.7928581,case100 mA 997 mAh 10 hrs,0.83519363,Low-power LED flashlight200 mA 914 mAh 4.5 hrs,0.8177213,Electronic toy,0.73697126,medium LED flashlight,0.8082788,400 mA 623 mAh 1.5 hrs,0.7455494,Motorized toy,0.9464675,bright LED flashlightNote,0.96230567,all other Alkalines,0.87625027,somewhat higher capacity,0.94912547,1200 mAh,0.9953826,a low discharge application,0.78322893,a mouse,0.9493288,keyboard,0.981988,remote control,0.9955886,alkaline batteries,0.9994735,internal resistance,0.9962324,usable capacity,0.99714303,high discharge rates,0.9986203,The capacity,0.9987704,these batteries,0.9735093,the best,0.99655783,a look,0.993674,the attached data table,0.99895537,comparative data,0.9889269,the cost,0.9267812,0.31/ea,0.9814937,a 36 pack,0.97200423,a decent but beatable value,0.985361,the power,0.99337596,dollar,0.9400577,other currently available options,0.98316664,Comparison,0.9922762,These batteries,0.66534024,well capacity-wise,0.89469355,value-wise,0.9810218,the currently cheapest energy/dollar battery,0.9855039,the ACDelco aaa,0.9876252,Their capacity results,0.84948987,Disch Rt Capacity Runtime100 mA 1005 mAh 10 hrs,0.7537459,200 mA 864 mAh 4.3 hrs,0.7736533,400 mA 670 mAh 1.7 hrsAs,0.9991995,the Amazon batteries,0.9964922,the current time,0.99130064,the AmazonBasics batteries,0.9267571,0.31/ea,0.9635364,36 pack,0.99951094,the ACDelco batteries,0.903839,about 0.21/ea,0.95205367,48 pack,0.9988317,the ACDelco,0.4932662,mAh,0.9564678,shelf life,0.99840945,a drawer,0.7859337,both the Amazon batteries,0.9995894,the ACDelco batteries,0.99975044,contract,0.99951583,a third party,0.9410256,Amazon,0.952516,a bit,0.9909725,consistent batteries,0.9904022,ACDelco,0.99979407,any trouble,0.99670404,my ACDelco batteries,0.9995234,the Amazon batteries,0.9693374,clearly superior packaging,0.99963856,the ACDelco batteries,0.98842806,a horrible gigantic plastic blister pack,0.99873227,the Amazon batteries,0.9974679,a closable cardboard box,0.9996942,a lot,0.95324767,batteries organization,0.99029046,your battery drawer,0.98924035,the all-around winner category,0.9949808,the 50 price premium,0.99812245,another review,0.99046487,the Rayovac AA,0.99427146,some usage scenarios,0.9999549,my findings,0.9901478,the Rayovac AAA,0.87917143,garbage,0.9991275,the Amazon batteries,0.99367344,EVERY case,0.99617654,the Rayovac AA,0.9906486,the AAA,0.9998314,the version,0.99781334,the Rayovacs,0.9994991,the website,0.9988143,his results,0.9954604,the most popular Rayovac,0.99446845,Amazon,0.99974835,my batteries,0.9984616,Amazon,0.8666718,the Rayovac test,0.9995298,several times,0.97694594,some typical Rayovac results,0.85744476,Disch Rt Capacity Runtime100 mA 908 mAh 9 hrs,0.7819831,200 mA 590 mAh 2.9 hrs,0.7685,400 mA 443 mAh 1.1 hrsMy other battery tests,0.7717558,reviews,0.9719447,reviews,0.9879207,Duracell Coppertop,0.9561231,Duracell Procell,0.93918157,ACDelco aaa alkaline batteries,0.9965423,capacity data,0.91226184,the exact same method,0.94594395,equipment,0.97858286,those reviews,0.98611814,comparison purposes,0.99393314,the product pages,0.8967131,all reviews,0.9989789,my profile,0.87346464,additional aaa tests/reviews,0.99911493,the future,0.9946285,this list,0.9461848,ACDelco AAA Super Alkaline BatteriesDuracell AAA Batteries Coppertop MN2400 - 20 PackDuracell Procell AAA Batteries PC2400BKD09Energizer MAX AAA BatteriesMaxell Alkaline Battery AAA CellRayovac Alkaline AAA Batteries
+0.96343744,Battery storage life,0.99581844,8 months
+0.995451,A good bang,0.95608664,Almost everything,0.99718267,a days,0.99803334,batteries
+0.977093,a dud batch,0.9832914,all these batteries,0.9655025,less than a month,0.92437786,My kids toys,0.48226517,that super,0.98939496,remotes,0.7286384,batteries way,0.7692056,the magic touch,0.9964923,toy,0.9943785,the store batteries,0.9963079,3 years,0.9930532,some Amazon batteries,0.97769654,1 month,0.9992874,the second child,0.9877405,the first,0.9982611,the price,0.9430486,the try,0.9995029,the other brands
+
+0.874449,Great basic batteries,0.6305504,Fantastic price,0.9963584,a stockpile,0.9996853,my kids,0.99433726,toys,0.96761614,Christmas,0.9911351,Oprah,0.9916603,a battery,0.9909458,a battery
+0.95680183,Some day,0.8040103,primitive,0.9476919,' batteries,0.99904066,an integral part,0.99671465,our daily lives,0.7509618,food,0.72189236,drink,0.9471149,shelter,0.9681948,love,0.961773,BATTERIES,0.986441,the price/quality combination
+0.9994282,A battery,0.99089104,a battery,0.7892732,these work,0.9894793,the name brands
+0.99946374,a good stock,0.99910814,batteries,0.9978314,my home,0.9983823,a repeat purchaser,0.8513437,these and other sizes,0.68819964,far no performance,0.8977432,Lasts,0.99456364,Duracell,0.99901754,the graphics
+0.7482292,his battery,0.99534225,cars,0.8867589,a awesome deal
+0.99848914,batteries,0.998331,Costco,0.9987929,Kirkland brand,0.9987792,Amazon Basics,0.99969757,my experience,0.99629426,other Amazon Basics products,0.9975695,the past,0.99909174,These batteries,0.9831134,Kirkland, Energizer and Duracell,0.9995474,The cost,0.9998643,my kids,0.9959747,more time,0.99949515,toys,0.99392843,the need,0.99809116,the batteries,0.8891069,A clear thumbs
+0.7463293,my remotes,0.90225875,RC transmitters,0.9176161,even other store brand alkaline batteries
+
+
+
+0.997129,the smaller pack,0.99730355,last time,0.99956995,this amount,0.99866545,batteries
+0.8593581,these online,0.99594575,bulk,0.9975898,several times
+0.88848007,Thes batteries
+0.9905171,This large pack,0.9993206,batteries,0.998473,a cheap alternative,0.98575115,other brand names,0.99270225,gaming,0.9936974,The battery life,0.9751833,every bit,0.96960264,the brand name batteries,0.9976808,these batteries,0.99859977,frequent gaming,0.82471454,power,0.93566257,my controller and headset
+0.75497514,Good deal,0.9146804,rechargeable
+0.8465316,Good batteries
+0.9525303,some good staying power,0.99279064,most other brands,0.99988985,this box,0.9883877,quite a few months,0.9981223,the kids,0.994919,xbox controllers
+0.9989483,These batteries,0.97565943,a good value,0.99856365,the past
+0.9997747,A friend,0.9997731,my batteries,0.9900753,Amazon,0.98795867,Her family,0.9926521,a good buy,0.9965189,the money,0.99437463,batteries
+0.99746513,Batteries,0.9976116,a commodity,0.9989793,their price,0.99926674,a store,0.9983724,these batteries,0.9917409,the name brands,0.9815727,A good value
+0.9983985,These Amazon batteries,0.9995485,a good value
+0.95832956,AA batteries,0.98335725,a great price
+0.98859185,many batteries,0.74818236,so little money,0.98237354,A great deal
+0.7321476,Works,0.83695203,everyday AA battery
+0.99932384,the local store,0.9996253,a small package,0.9976121,batteries,0.9981288,the cost,0.99869776,these batteries,0.9746761,approximately the same cost,0.9961191,6 batteries,0.99857634,a pack,0.9998823,The price,0.9997272,the batteries,0.9955838,a bargain
+0.9054195,Great,0.9807197,the money,0.9763578,these batteries,0.9967542,the past,0.9968088,The best part,0.98539853,your bank account
+0.9677414,A great deal,0.99922204,the batteries,0.99899966,a good life
+0.89748144,AmazonBasics,0.99750656,batteries,0.9783724,a great price,0.8359648,the AA,0.9514745,AAA,0.9184052,9-volt,0.99899834,a cheap shopper,0.97362304,their performance and price
+0.87651867,LeapPads,0.8779496,Xbox controllers,0.89735967,remotes,0.9771383,batteries,0.994799,a lot,0.9993061,a comparable lifespan,0.9985215,other household brands
+0.9543802,all my batteries,0.86399734,Great long lasting batteries
+0.962807,those crazy cheap batteries,0.99951786,the face,0.9824474,a couple sets,0.9838639,the quality/lifespan,0.9907027,the more expensive name brands,0.968824,friends and family,0.99165386,plenty,0.984978,AA batteries,0.95942056,birthdays and holidays
+0.92134374,My PS3 remote control,0.9255701,my television remote controls,0.9925828,these AAA batteries
+0.9939883,3,0.9997777,the item,0.7143048,bad quality,0.90140164,missing backup spring,0.99961495,a pcs,0.99963677,aluminum,0.98000836,the battery work
+0.9919199,Bulk,0.97995776,the less expensive way,0.9994717,products
+0.59099215,Duracell,0.8561566,the price
+0.9240944,name brand batteries
+0.9988041,These batteries,0.9998331,the price
+0.99895805,a lot,0.9990723,batteries,0.99677485,Christmas,0.9757802,the AmazonBasics Cell,0.99985737,a difference,0.9736594,the brand name batteries,0.9964419,the Amazon Basic brand,0.9408846,Just a lot,0.99882925,the house,0.99606305,hand
+0.9316929,ive,0.9954009,any problame,0.99792457,these batteries,0.9888009,the past
+0.99168324,cheap non-rechargeable batteries,0.77666855,quite a while
+0.9998815,the amount,0.99135804,high power juice,0.95377904,energizer or duracell,0.9443519,half the price
+0.9743884,AmazonBasics AA AAA batteries,0.994165,a good shelf life
+0.9460878,amazon basics batteries,0.96259314,name brand ones,0.9997829,The packages,0.99983233,the price
+0.99365944,the Amazon basic batteries,0.99761003,recent purchases,0.9881666,a mixed-bag,0.8436257,some lasting better,0.99729156,any tests,0.99490976,some other brands,0.999913,the price
+0.9744945,my fish tank,0.95221066,light,0.98130643,night,0.99979633,guests
+0.99657553,em,0.99019843,the job,0.98343366,good price,0.9700098,quick delivery,0.99864084,my keyboards,0.9352527,a year,0.9964935,three days
+0.9989304,many things,0.94995594,aa battery
+0.99908924,Amazon,0.9960727,a great price,0.77963006,even better shipping,0.9920206,perfect condition,0.7548248,Great purchase
+0.9210694,brand
+0.99783295,my opinion,0.9967181,Duracel,0.997512,things,0.9940829,LED candles,0.9937158,cameras,0.9910589,Cameras,0.987783,cold temps,0.998187,other batteries,0.999238,bulk,0.99723196,the north house,0.998666,Amazon Basics,0.99925154,things,0.5368703,sheets,0.7146717,beeding and towels,0.989433,my opinion,0.9789627,the battery life,0.99968016,the large package,0.92599577,aaa and aa size
+0.9847806,the brand name
+0.99624866,these batteries,0.9955801,my Christmas gifts,0.996872,the month,0.99178165,december,0.8269958,2months,0.93450165,toys,0.9950999,replacement batteries,0.99555707,my doorbell,0.9890861,replacement batteries,0.98675853,Tv Remote control,0.9960373,these batteries
+0.9874118,my second order,0.8966117,name brand,0.9996649,my door
+0.9982563,my second purchase,0.99359417,amazon batteries,0.63979846,Just as good,0.92344815,name brand batteries,0.9867495,half the price,0.995927,the only way,0.99769896,batteries
+0.9875437,Duracell batteries,0.9485845,my Xbox one controllers,0.9979773,the reviews
+0.9333097,other name brand names
+0.9829706,all very cheap batteries
+0.9988972,a battery
+0.99131763,These Amazon batteries,0.9987873,the job,0.97424436,4star,0.972255,a few,0.9281969,a hand,0.99511826,batteries,0.9994473,a box,0.99723226,48 batteries,0.985072,this priceIm
+0.8474224,a few times,0.9945952,product,0.91092664,good quality,0.9950063,price
+0.636279,HAVE NOT,0.8431857,CHANCE TO USE ALL,0.9368051,THEM BUT HOPEFULLY ALL,0.99276185,GOOD ORDER,0.98731405,A REASONABLE AMOUNT,0.82173187,TIME MEANING A FEW YEARS OUT
+0.99827003,a light,0.9992944,the light,0.89404625,nice company,0.9962246,the batteries,0.6206365,aa,0.9922042,our fault
+0.9978441,these batteries,0.9926303,my game cameras,0.9557711,last several weeks
+0.99973905,a box,0.9973865,batteries,0.9993638,a good price,0.99362093,pricing,0.9957658,stores,0.9880291,this long time
+0.99793243,batteries,0.99906456,a good price,0.95147103,a hundred,0.506277,kids,0.9955557,grand kids
+0.9998795,the price
+0.99786586,my Xbox controllers,0.95260715,Great,0.9982332,a cheap price
+0.98403907,any name brand,0.8123496,a much better
+0.8474812,Works,0.99778,every other brand,0.9970708,battery,0.9986311,a better price,0.66002244,Powers,0.7803243,my sons,0.6653271,toys,0.99922574,months,0.9992265,a time
+0.99162394,a few eeeks,0.99092954,these batteries
+0.92061776,Energizer- half the price
+0.9944512,These batteries,0.99188864,AA batteries,0.99696404,many wireless microphone,0.9865301,brand-name batteries,0.8954208,about a month,0.9964933,our usage,0.99452746,Amazon basics,0.9985284,a subscription,0.99783915,our preferred brand,0.99849814,the same usage,0.98859555,these batteries,0.8482323,about a week,0.9802517,a 1/4 capacity
+0.9202178,3rd purchase,0.9666785,these AA,0.99647,Amazon,0.9992015,expiration,0.9969585,2027,0.8409001,Long,0.98730886,name brands
+0.99973863,my purchase
+0.99490106,these batteries,0.99727374,10,0.9923854,the 12 window candles,0.9692049,my last 2 Duracell,0.991704,the other 2,0.99923587,The Amazon Batteries,0.99432033,about 10 days,0.99687386,the Duracell,0.9963582,12,0.98379904,the Duracell,0.9958241,an average,0.8815443,17
+0.8661607,First time,0.9888529,the name brands,0.78901744,Not the same,0.96159595,this time,0.88104934,almost no charge,0.96064645,4-6 hours,0.8010633,run time,0.9041737,Junk batteries
+0.99950475,a great price
+0.9972297,These batteries,0.9984413,a simple digital clock,0.97774035,2 weeks
+0.91387457,AAA and AA batteries,0.9781553,4 - 6 times,0.9953427,a year,0.994843,the switch,0.9888391,Amazon batteries,0.93556595,about 2 years,0.9777168,These batteries,0.99181926,the name brands,0.98260146,a much more reasonable cost
+0.88489234,Date,0.9807785,the back,0.9860286,1992,0.9750948,1992
+0.64604425,GOT THE 48 PACK,0.64242184,FASTER
+0.9879223,The 48 packs,0.99529755,the lowest price,0.9552224,AA battery,0.9949421,a device,0.9959935,work,0.97589195,8 new AA batteries,0.9935835,every working day,0.99868155,These batteries,0.97186774,a 12 hour day,0.9921733,the same,0.9988802,the expensive batteries,0.9980167,rechargeable batteries,0.9940475,the simplicity,0.99478424,new batteries,0.9974666,every night
+0.9316877,the price and quantity,0.9984851,My kids,0.64836496,fast,0.98871976,a while
+0.9603211,great price
+0.8369626,Batteries,0.8176474,Standard AA kind,0.887655,everyday,0.99606025,many things,0.99854755,any others
+0.7068286,Excellent performance,0.97147447,better price
+0.6893658,expected,0.9984378,Amazon batteries,0.9986583,a long life
+
+0.92553604,Great product
+0.98798966,batteries
+0.761623,LOVE THESE BATTERIES,0.7691822,DURACELL AND SAVES ME MONEY,0.94346374,A GREAT PRODUCT AMAZON
+0.90748066,name brand batteries,0.98485017,the same nice feel,0.98740685,expensive batteries,0.8522253,Perfect,0.9983962,my opinion,0.97182447,purchase
+0.9941282,These AAA,0.99968415,the brands,0.92070264,WalMart
+
+0.99980694,this order,0.9974407,no issues,0.98229647,this order,0.9982601,same seller
+0.99269694,AmazonBasics batteries,0.9995003,terms,0.99273455,capacity,0.9990111,the top spot,0.99517894,the other 6 brands,0.9986081,other brands,0.9978363,the edge,0.9906695,capacity,0.99764025,dollar,0.99780613,capacity,0.99539125,the cost,0.9985843,battery,0.98770946,the cheapest package size,0.9978504,a respectable third place,0.9995439,the advantage,0.9987102,a trusted name,0.99135774,the value leader,0.99739665,the images,0.99708104,a graph,0.965414,a table,0.9947933,my test results,0.9969015,the 7 types,0.99038994,the in-dept test review,0.999337,a bit,0.9987016,a quest,0.99142236,the top-selling aaa batteries,0.99737287,Amazon,0.96670836,a repeatable, precise way,0.9930737,the same equipment,0.9950123,same environmental conditions,0.99861515,same slots,0.99980676,the equipment,0.9917096,each test,0.99082273,each test,0.9978269,3 batteries,0.9684471,my Opus BT-C2000 battery analyzer,0.99763966,rates,0.82049006,100 ma,0.95604724,200 ma,0.96232814,400 ma,0.96372193,discharge rate,0.9957989,usable capacity,0.9964456,this exact same test,0.99078995,same equipment,0.9985368,same conditions,0.9835123,the ACDelco,0.9966345,Duracell Procell,0.9875881,Duracell Coppertop,0.9858158,Energizer MAX,0.9925485,Maxell,0.9658747,Rayovac,0.99929994,the other brands,0.9997577,the end,0.9967965,this review,0.9990316,a look,0.9990947,the other results,0.9862965,comparison purposes,0.9920913,the Amazon Basics batteries,0.9948674,the capacity,0.97244734,each discharge rate,0.89671427,Disch Rt Capacity Runtime Sample,0.7928581,case100 mA 997 mAh 10 hrs,0.83519363,Low-power LED flashlight200 mA 914 mAh 4.5 hrs,0.8177213,Electronic toy,0.73697126,mediu
